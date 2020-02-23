@@ -1,266 +1,278 @@
 {
-"status": "ok",
-"totalResults": 38,
--"articles": [
--{
--"source": {
-"id": "nbc-news",
-"name": "NBC News"
-},
-"author": "David K. Li, Shamar Walters",
-"title": "A 15-month-old girl last seen in December was reported missing only this week - NBCNews.com",
-"description": "Tennessee authorities this week issued an Amber Alert for 15-month-old Evelyn Mae Boswell, who has not been seen since late December.",
-"url": "https://www.nbcnews.com/news/us-news/15-month-old-girl-last-seen-december-was-reported-missing-n1140301",
-"urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_08/3238831/200221-evelyn-mae-boswell-mc-1416_d09aa99d6fbfbdc9771eb5654304c2d0.nbcnews-fp-1200-630.jpg",
-"publishedAt": "2020-02-21T16:09:00Z",
-"content": "Tennessee authorities issued an Amber Alert this week for a 15-month-old girl who was last seen in late December.\r\nThe Tennessee Bureau of Investigation on Friday also asked the public to look out for a gray 2007 BMW because \"individuals traveling\" in that ve… [+1669 chars]"
-},
--{
--"source": {
-"id": "the-verge",
-"name": "The Verge"
-},
-"author": "Cameron Faulkner",
-"title": "Save on Samsung Galaxy S20 preorder bundles and Xbox One X consoles - The Verge",
-"description": "Amazon is now accepting preorders for the Samsung Galaxy S20, S20 Plus, and S20 Ultra, and it’s tossing in a few extra goodies you won’t find anywhere else. Additionally, there are good deals on the Xbox One X.",
-"url": "https://www.theverge.com/good-deals/2020/2/21/21146956/samsung-galaxy-s20-preorder-bundles-xbox-one-x-consoles-s10-deal-sale",
-"urlToImage": "https://cdn.vox-cdn.com/thumbor/mN1ZOmD9Ur8ArQLnABuUSzuMdjM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19710523/vpavic_200206_3899_still_0004.jpg",
-"publishedAt": "2020-02-21T15:50:05Z",
-"content": "Plenty of deals to think about\r\nPhoto by Vjeran Pavic / The Verge\r\nThis story is part of a group of stories called \r\nOnly the best deals on Verge-approved gadgets get the Verge Deals stamp of approval, so if you're looking for a deal on your next gadget or gi… [+2198 chars]"
-},
--{
--"source": {
-"id": "nbc-news",
-"name": "NBC News"
-},
-"author": "Jacqueline Stenson",
-"title": "Can the coronavirus be spread by people who don't have symptoms? - NBC News",
-"description": "Can coronavirus spread from people without symptoms? What the latest research and experts say about coronavirus asymptomatic spread.",
-"url": "https://www.nbcnews.com/health/health-news/can-coronavirus-be-spread-people-who-don-t-have-symptoms-n1140106",
-"urlToImage": "https://media4.s-nbcnews.com/j/newscms/2020_08/3237946/200220-coronavirus-se-346p_1730140c94320fd26aa7895c8f9126c0.nbcnews-fp-1200-630.jpg",
-"publishedAt": "2020-02-21T15:50:00Z",
-"content": "A key question on the minds of experts studying the coronavirus outbreak is whether the virus can spread asymptomatically, a development that could make it much more difficult to track and contain.\r\nA report Wednesday in the New England Journal of Medicine ad… [+5901 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "9to5google.com"
-},
-"author": null,
-"title": "OnePlus 8 launch will only take place online due to coronavirus concerns - 9to5Google",
-"description": "Coronavirus concerns are wreaking havoc with the mobile industry this year and now, we're hearing the OnePlus 8 launch will be online-only.",
-"url": "https://9to5google.com/2020/02/21/oneplus-8-launch-online-event-coronavirus/",
-"urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/01/OnePlus-7T-2.jpg?quality=82&strip=all",
-"publishedAt": "2020-02-21T15:24:00Z",
-"content": "The outbreak of the COVID-19 coronavirus in China has impacted the lives of tens of thousands, but also directly affected many technology companies. The latest company that will be affected, apparently, will be OnePlus as we’re hearing from multiple sources t… [+1611 chars]"
-},
--{
--"source": {
-"id": "fox-news",
-"name": "Fox News"
-},
-"author": "Ryan Gaydos",
-"title": "JJ Watt leads displeasure with CBA proposal after NFL owners' approval - Fox News",
-"description": "NFL stars J.J. Watt, Leonard Fournette and Richard Sherman were among those who came out against the collective bargaining agreement, which was approved by the owners Thursday.",
-"url": "https://www.foxnews.com/sports/jj-watt-displeasure-cba-proposal-nfl-owners-approval",
-"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/11/JJ-Watt-Reuters.jpg",
-"publishedAt": "2020-02-21T15:17:43Z",
-"content": "NFL stars J.J. Watt, Leonard Fournette and Richard Sherman are among those who came out against the collective bargaining agreement, which was approved by owners Thursday.\r\nPart of the agreement moves the NFL to a 17-game schedule beginning in 2021 with playe… [+1534 chars]"
-},
--{
--"source": {
-"id": "reuters",
-"name": "Reuters"
-},
-"author": "Rajesh Kumar Singh",
-"title": "Deere stock soars on an unexpected rise in profits Reuters - msnNOW",
-"description": "Deere & Co on Friday reported an unexpected increase in first-quarter profit and retained its full-year earnings forecast as signs of stabilization in the U.S. farm sector offset weak demand for construction machines, sending its shares soaring.",
-"url": "https://www.reuters.com/article/us-deere-results-idUSKBN20F1MN",
-"urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493290047&w=1200&r=LYNXMPEG1K13X",
-"publishedAt": "2020-02-21T15:00:00Z",
-"content": "CHICAGO (Reuters) - Deere &amp; Co (DE.N) on Friday reported an unexpected increase in first-quarter profit and retained its full-year earnings forecast as signs of stabilization in the U.S. farm sector offset weak demand for construction machines, sending it… [+2780 chars]"
-},
--{
--"source": {
-"id": "nfl-news",
-"name": "NFL News"
-},
-"author": "Chad Reuter",
-"title": "Three-round mock draft: Trades shake things up - NFL.com",
-"description": "As we approach the combine, Chad Reuter takes a second stab at projecting the 2020 NFL Draft's first three rounds. And this time, trades really shake things up.",
-"url": "http://www.nfl.com/news/story/0ap3000001102631/article/threeround-2020-nfl-mock-draft-20-trades-shake-up-round-1",
-"urlToImage": "http://static.nfl.com/static/content/public/photo/2020/02/21/0ap3000001102636_thumbnail_200_150.jpg",
-"publishedAt": "2020-02-21T14:59:00Z",
-"content": "I love the NFL Scouting Combine and I'm not afraid to admit it.\r\nNot just because it's a week-long convention of NFL coaches, front office managers, scouts and media members -- though I do like seeing old and new friends in wonderfully compact downtown Indian… [+8912 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Rollingstone.com"
-},
-"author": "Ryan Bort, Ryan Bort",
-"title": "Can You Guess Why Trump Is Angry ‘Parasite’ Won Best Picture at the Oscars? - Rolling Stone",
-"description": "It isn’t because he prefers Bong Joon-ho’s earlier work",
-"url": "https://www.rollingstone.com/politics/politics-news/trump-bashes-academy-awards-parasite-brad-pitt-956257/",
-"urlToImage": "https://www.rollingstone.com/wp-content/uploads/2020/02/Donald-Trump.jpg",
-"publishedAt": "2020-02-21T14:48:00Z",
-"content": "President Trump has long loathed the Academy Awards, viewing the ceremony as a teeming hive of the Hollywood elites who have categorically rejected him (except for Jon Voight).\r\nBut he has a predictable new gripe with this year’s Oscars, which he aired Thursd… [+3442 chars]"
-},
--{
--"source": {
-"id": "the-verge",
-"name": "The Verge"
-},
-"author": "Sam Byford",
-"title": "This AirPods case case looks like a Game Boy - The Verge",
-"description": "Elago’s latest cute accessory turns your AirPods case into a Game Boy. It’s available in black or grey and is on sale now.",
-"url": "https://www.theverge.com/2020/2/21/21146638/game-boy-airpods-case-elago-available-price",
-"urlToImage": "https://cdn.vox-cdn.com/thumbor/k7PQXkOzdUz3msrmNOuT19LG1Es=/0x111:1544x919/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19735706/elago_aw5_airpods_case.jpg",
-"publishedAt": "2020-02-21T14:11:19Z",
-"content": ""
-},
--{
--"source": {
-"id": null,
-"name": "Forbes.com"
-},
-"author": "Gordon Kelly",
-"title": "Apple Insider Reveals Surprise New ‘iPhone’ Release - Forbes",
-"description": "Apple's first new iPhone of 2020 is coming soon and a big surprise...",
-"url": "https://www.forbes.com/sites/gordonkelly/2020/02/21/apple-iphone-2020-release-date-update-iphone-se2-iphone-12-iphone-11-pro-max-upgrade/",
-"urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f2b85765d4500072cd608%2F960x0.jpg",
-"publishedAt": "2020-02-21T13:28:00Z",
-"content": "We think we know a lot about Apples all-new budget iPhone, including its familiar design, exciting specifications and, of course, that highly appealing price tag. But what if we were all wrong about its most fundamental aspect?Apple's new budget iPhone is one… [+8977 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Nytimes.com"
-},
-"author": "Choe Sang-Hun",
-"title": "Shadowy Church Is at Center of Coronavirus Outbreak in South Korea - The New York Times",
-"description": "As the country’s infection numbers soar, most cases have been connected to the Shincheonji Church of Jesus, which mainstream churches consider a cult.",
-"url": "https://www.nytimes.com/2020/02/21/world/asia/south-korea-coronavirus-shincheonji.html",
-"urlToImage": "https://static01.nyt.com/images/2020/02/21/world/21skorea-virus-1/21skorea-virus-1-facebookJumbo.jpg",
-"publishedAt": "2020-02-21T13:08:00Z",
-"content": "Shincheonji claims 150,000 members and has 12 congregations in South Korea. It also has many smaller operations, which present themselves as cafes or churches of other denominations and are used for proselytizing, said Mr. Chung.\r\nShincheonji has long been cr… [+1141 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Marketwatch.com"
-},
-"author": "Sunny Oh",
-"title": "30-year Treasury bond yield breaks to all-time low as coronavirus fears lift havens - MarketWatch",
-"description": "U.S. Treasury yields extend their weeklong slump on Friday as investors worry that the economic impact of COVID-19 would not be contained to China.",
-"url": "https://www.marketwatch.com/story/30-year-treasury-bond-yield-breaks-to-all-time-low-as-coronavirus-fears-lift-havens-2020-02-21",
-"urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-"publishedAt": "2020-02-21T13:08:00Z",
-"content": "U.S. Treasury yields extended their weeklong slump on Friday as investors worried that the economic impact of COVID-19 may not be contained to China, and is spilling over into neighboring regions.\r\nWhat are Treasurys doing?\r\nThe 10-year Treasury note yield\r\nT… [+2616 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Fox8.com"
-},
-"author": null,
-"title": "Charles Barkley calls Cavs players ‘ridiculous’ and ‘unprofessional’ over head coaching change - WJW FOX 8 News Cleveland",
-"description": "Charles Barkley says Cleveland Cavaliers players purposely tried to get rid of John Beilein.",
-"url": "https://fox8.com/sports/charles-barkley-calls-cavs-players-ridiculous-and-unprofessional-over-head-coaching-change/",
-"urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2020/02/GettyImages-649817968.jpg?w=594&h=395&crop=1&resize=1280,720",
-"publishedAt": "2020-02-21T13:04:00Z",
-"content": "CLEVELAND, Ohio (WJW) – Retired NBA player Charles Barkley and Inside the NBA analyst is not mincing words about the Cleveland Cavaliers.\r\nLast night on Inside the NBA, he said players were “ridiculous” and “unprofessional” for “what they did to Coach Beilein… [+1206 chars]"
-},
--{
--"source": {
-"id": "cnbc",
-"name": "CNBC"
-},
-"author": "Fred Imbert",
-"title": "Stock market live updates: Dow down 200, JPMorgan sees 'sell signals,' hedge funds buy tech - CNBC",
-"description": "A discussion of what's moving the market on Friday, including the coronavirus.",
-"url": "https://www.cnbc.com/2020/02/21/stock-market-today-live.html",
-"urlToImage": "https://image.cnbcfm.com/api/v1/image/106060663-1565033685560concerned.jpg?v=1582289573",
-"publishedAt": "2020-02-21T13:02:00Z",
-"content": "Traders and financial professionals work ahead of the closing bell on the floor of the New York Stock Exchange.\r\nThis is a live blog. Check back for updates.\r\n11:46 am: Markets at midday: Stocks head for losing week on resurfacing coronavirus fears\r\nThe major… [+8344 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Nypost.com"
-},
-"author": "Yaron Steinbuch",
-"title": "Over 500 cases of coronavirus reported in Chinese prisons - New York Post ",
-"description": "More than 500 inmates have been infected by the coronavirus in prisons across China, prompting the firing of several officials, according to reports Friday. In Hubei Province, where the illness eme…",
-"url": "https://nypost.com/2020/02/21/over-500-cases-of-coronavirus-reported-in-chinese-prisons/",
-"urlToImage": "https://thenypost.files.wordpress.com/2020/02/coronavirus-70.jpg?quality=90&strip=all&w=1200",
-"publishedAt": "2020-02-21T13:00:00Z",
-"content": "More than 500 inmates have been infected by the coronavirus in prisons across China, prompting the firing of several officials, according to reports Friday.\r\nIn Hubei Province, where the illness emerged late last year, 271 cases were reported, mostly at the W… [+1444 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Eonline.com"
-},
-"author": "Jess Cohen",
-"title": "Justin Bieber Asks James Corden If Harry Styles Has More Talent: Watch - E! NEWS",
-"description": "Justin Bieber asked James Corden to compare him and Harry Styles during a game of Spill Your Guts. Click here to watch!",
-"url": "https://www.eonline.com/news/1124821/justin-bieber-asks-james-corden-if-harry-styles-has-more-talent-and-his-response-will-shock-you",
-"urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2020121/rs_600x600-200221041409-600-Justin-Bieber-Harry-Styles-LT-022120-shutterstock_editorial_10559193cl-shutterstock_editorial_10559670am.jpg?fit=around|600:467&crop=600:467;center,top&output-quality=90",
-"publishedAt": "2020-02-21T12:41:00Z",
-"content": "\"What did I get myself into?\"\r\nJustin Bieber and James Corden played a hilarious game of Spill Your Guts on Thursday night. On the latest episode of The Late Late Show, the superstar singer sat down with the talk show host to ask each other some tough questio… [+595 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Npr.org"
-},
-"author": "Scott Neuman",
-"title": "U.S., Afghanistan And Taliban Announce 7-Day 'Reduction In Violence' - NPR",
-"description": "The quasi cease-fire was hammered out during protracted negotiations in Qatar that began in 2018 and could ultimately lead to a significant reduction in U.S. troops in Afghanistan.",
-"url": "https://www.npr.org/2020/02/21/808029567/u-s-afghanistan-and-taliban-announce-7-day-reduction-in-violence",
-"urlToImage": "https://media.npr.org/assets/img/2020/02/21/khalilzad_wide-848e0870fecea8951ea41af8ce6b63e67af8153e.jpg?s=1400",
-"publishedAt": "2020-02-21T12:12:00Z",
-"content": "U.S. Special Representative for Afghanistan Reconciliation Zalmay Khalilzad attends the Intra-Afghan Dialogue talks in the Qatari capital, Doha, in July.\r\nKarim Jaafar /AFP via Getty Images\r\nUpdated at 8:57 a.m. ET\r\nAfghan forces, the U.S.-led coalition in Af… [+2990 chars]"
-},
--{
--"source": {
-"id": null,
-"name": "Variety.com"
-},
-"author": "Rebecca Rubin,Brent Lang, Rebecca Rubin, Brent Lang",
-"title": "‘West Side Story’ Broadway Opening Night Sparks Protests - Variety",
-"description": "Roughly 100 protestors gathered outside the Broadway premiere of “West Side Story” on Thursday night, carrying placards and chanting in unison to demand the removal of cast member Amar …",
-"url": "https://variety.com/2020/legit/news/west-side-story-broadway-opening-night-protests-1203509630/",
-"urlToImage": "https://pmcvariety.files.wordpress.com/2020/02/west-side-story-protests.jpg?w=700&h=393&crop=1",
-"publishedAt": "2020-02-21T11:47:00Z",
-"content": "Roughly 100 protestors gathered outside the Broadway premiere of “West Side Story” on Thursday night, carrying placards and chanting in unison to demand the removal of cast member Amar Ramasar.\r\n“Hey, hey, ho, ho, Ramasar has got to go,” they cried while hold… [+3358 chars]"
-},
--{
--"source": {
-"id": "nbc-news",
-"name": "NBC News"
-},
-"author": "The Associated Press",
-"title": "Faye Swetlik mourners asked to wear bright colors for the missing 6-year-old found dead - NBC News",
-"description": "Faye Swetlik mourners asked to wear bright colors for the missing 6-year-old found dead",
-"url": "https://www.nbcnews.com/news/us-news/faye-swetlik-mourners-asked-wear-bright-colors-missing-6-year-n1140216",
-"urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_07/3227756/200212-2x1-faye-swetlik-ew-1236p_13b41a87fb7c0c329bcb2a645662ac49.nbcnews-fp-1200-630.jpg",
-"publishedAt": "2020-02-21T11:33:00Z",
-"content": "CAYCE, S.C. The South Carolina community that searched, prayed and then cried gets to say goodbye Friday to a 6-year-old girl who disappeared from her front yard and was found dead three days later.\r\nThe family of Faye Marie Swetlik is asking everyone to wear… [+2035 chars]"
-},
--{
--"source": {
-"id": "cnn",
-"name": "CNN"
-},
-"author": "Harmeet Kaur, CNN",
-"title": "5 things to know for February 21: Russia, Roger Stone, coronavirus, Iran, Israel - CNN",
-"description": "Here's what else you need to know to Get Up to Speed and Out the Door.",
-"url": "https://www.cnn.com/2020/02/21/us/five-things-february-21-trnd/index.html",
-"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200221004810-01-coronavirus-hubei-0220-super-tease.jpg",
-"publishedAt": "2020-02-21T11:23:00Z",
-"content": "(CNN)What's spreading faster than the coronavirus? In the US at least, racist and xenophobic attacks against anyone who looks Asian. Here's what you need to know to Get Up to Speed and Out the Door. \r\n(You can also get \"5 Things You Need to Know Today\" delive… [+5434 chars]"
-}
-]
+    "count": 87, 
+    "next": "https://swapi.co/api/people/?page=2", 
+    "previous": null, 
+    "results": [
+        {
+            "name": "Luke Skywalker", 
+            "height": "172", 
+            "mass": "77", 
+            "hair_color": "blond", 
+            "skin_color": "fair", 
+            "eye_color": "blue", 
+            "birth_year": "19BBY", 
+            "gender": "male", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/2/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/3/", 
+                "https://swapi.co/api/films/1/", 
+                "https://swapi.co/api/films/7/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [
+                "https://swapi.co/api/vehicles/14/", 
+                "https://swapi.co/api/vehicles/30/"
+            ], 
+            "starships": [
+                "https://swapi.co/api/starships/12/", 
+                "https://swapi.co/api/starships/22/"
+            ], 
+            "created": "2014-12-09T13:50:51.644000Z", 
+            "edited": "2014-12-20T21:17:56.891000Z", 
+            "url": "https://swapi.co/api/people/1/"
+        }, 
+        {
+            "name": "C-3PO", 
+            "height": "167", 
+            "mass": "75", 
+            "hair_color": "n/a", 
+            "skin_color": "gold", 
+            "eye_color": "yellow", 
+            "birth_year": "112BBY", 
+            "gender": "n/a", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/2/", 
+                "https://swapi.co/api/films/5/", 
+                "https://swapi.co/api/films/4/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/3/", 
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/2/"
+            ], 
+            "vehicles": [], 
+            "starships": [], 
+            "created": "2014-12-10T15:10:51.357000Z", 
+            "edited": "2014-12-20T21:17:50.309000Z", 
+            "url": "https://swapi.co/api/people/2/"
+        }, 
+        {
+            "name": "R2-D2", 
+            "height": "96", 
+            "mass": "32", 
+            "hair_color": "n/a", 
+            "skin_color": "white, blue", 
+            "eye_color": "red", 
+            "birth_year": "33BBY", 
+            "gender": "n/a", 
+            "homeworld": "https://swapi.co/api/planets/8/", 
+            "films": [
+                "https://swapi.co/api/films/2/", 
+                "https://swapi.co/api/films/5/", 
+                "https://swapi.co/api/films/4/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/3/", 
+                "https://swapi.co/api/films/1/", 
+                "https://swapi.co/api/films/7/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/2/"
+            ], 
+            "vehicles": [], 
+            "starships": [], 
+            "created": "2014-12-10T15:11:50.376000Z", 
+            "edited": "2014-12-20T21:17:50.311000Z", 
+            "url": "https://swapi.co/api/people/3/"
+        }, 
+        {
+            "name": "Darth Vader", 
+            "height": "202", 
+            "mass": "136", 
+            "hair_color": "none", 
+            "skin_color": "white", 
+            "eye_color": "yellow", 
+            "birth_year": "41.9BBY", 
+            "gender": "male", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/2/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/3/", 
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [], 
+            "starships": [
+                "https://swapi.co/api/starships/13/"
+            ], 
+            "created": "2014-12-10T15:18:20.704000Z", 
+            "edited": "2014-12-20T21:17:50.313000Z", 
+            "url": "https://swapi.co/api/people/4/"
+        }, 
+        {
+            "name": "Leia Organa", 
+            "height": "150", 
+            "mass": "49", 
+            "hair_color": "brown", 
+            "skin_color": "light", 
+            "eye_color": "brown", 
+            "birth_year": "19BBY", 
+            "gender": "female", 
+            "homeworld": "https://swapi.co/api/planets/2/", 
+            "films": [
+                "https://swapi.co/api/films/2/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/3/", 
+                "https://swapi.co/api/films/1/", 
+                "https://swapi.co/api/films/7/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [
+                "https://swapi.co/api/vehicles/30/"
+            ], 
+            "starships": [], 
+            "created": "2014-12-10T15:20:09.791000Z", 
+            "edited": "2014-12-20T21:17:50.315000Z", 
+            "url": "https://swapi.co/api/people/5/"
+        }, 
+        {
+            "name": "Owen Lars", 
+            "height": "178", 
+            "mass": "120", 
+            "hair_color": "brown, grey", 
+            "skin_color": "light", 
+            "eye_color": "blue", 
+            "birth_year": "52BBY", 
+            "gender": "male", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/5/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [], 
+            "starships": [], 
+            "created": "2014-12-10T15:52:14.024000Z", 
+            "edited": "2014-12-20T21:17:50.317000Z", 
+            "url": "https://swapi.co/api/people/6/"
+        }, 
+        {
+            "name": "Beru Whitesun lars", 
+            "height": "165", 
+            "mass": "75", 
+            "hair_color": "brown", 
+            "skin_color": "light", 
+            "eye_color": "blue", 
+            "birth_year": "47BBY", 
+            "gender": "female", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/5/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [], 
+            "starships": [], 
+            "created": "2014-12-10T15:53:41.121000Z", 
+            "edited": "2014-12-20T21:17:50.319000Z", 
+            "url": "https://swapi.co/api/people/7/"
+        }, 
+        {
+            "name": "R5-D4", 
+            "height": "97", 
+            "mass": "32", 
+            "hair_color": "n/a", 
+            "skin_color": "white, red", 
+            "eye_color": "red", 
+            "birth_year": "unknown", 
+            "gender": "n/a", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/2/"
+            ], 
+            "vehicles": [], 
+            "starships": [], 
+            "created": "2014-12-10T15:57:50.959000Z", 
+            "edited": "2014-12-20T21:17:50.321000Z", 
+            "url": "https://swapi.co/api/people/8/"
+        }, 
+        {
+            "name": "Biggs Darklighter", 
+            "height": "183", 
+            "mass": "84", 
+            "hair_color": "black", 
+            "skin_color": "light", 
+            "eye_color": "brown", 
+            "birth_year": "24BBY", 
+            "gender": "male", 
+            "homeworld": "https://swapi.co/api/planets/1/", 
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [], 
+            "starships": [
+                "https://swapi.co/api/starships/12/"
+            ], 
+            "created": "2014-12-10T15:59:50.509000Z", 
+            "edited": "2014-12-20T21:17:50.323000Z", 
+            "url": "https://swapi.co/api/people/9/"
+        }, 
+        {
+            "name": "Obi-Wan Kenobi", 
+            "height": "182", 
+            "mass": "77", 
+            "hair_color": "auburn, white", 
+            "skin_color": "fair", 
+            "eye_color": "blue-gray", 
+            "birth_year": "57BBY", 
+            "gender": "male", 
+            "homeworld": "https://swapi.co/api/planets/20/", 
+            "films": [
+                "https://swapi.co/api/films/2/", 
+                "https://swapi.co/api/films/5/", 
+                "https://swapi.co/api/films/4/", 
+                "https://swapi.co/api/films/6/", 
+                "https://swapi.co/api/films/3/", 
+                "https://swapi.co/api/films/1/"
+            ], 
+            "species": [
+                "https://swapi.co/api/species/1/"
+            ], 
+            "vehicles": [
+                "https://swapi.co/api/vehicles/38/"
+            ], 
+            "starships": [
+                "https://swapi.co/api/starships/48/", 
+                "https://swapi.co/api/starships/59/", 
+                "https://swapi.co/api/starships/64/", 
+                "https://swapi.co/api/starships/65/", 
+                "https://swapi.co/api/starships/74/"
+            ], 
+            "created": "2014-12-10T16:16:29.192000Z", 
+            "edited": "2014-12-20T21:17:50.325000Z", 
+            "url": "https://swapi.co/api/people/10/"
+        }
+    ]
 }
